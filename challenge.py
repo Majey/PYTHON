@@ -1,3 +1,5 @@
+# ENCRYPTOR - DECRYPTOR
+
 """
 This program receives an uppercase string as input from the
 user and converts to a secret unicode string message
