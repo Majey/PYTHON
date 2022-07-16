@@ -180,7 +180,8 @@ class Battle:
                 break
  
     # A function will receive each Warrior that will attack the other
-    # Have the attack and block amounts be integers to make the results clean
+    # Have the attack and block amounts be integers to make the results
+    # clean
     # Output the results of the fight as it goes
     # If a Warrior dies return that result to end the looping in the
     # above function
