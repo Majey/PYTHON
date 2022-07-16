@@ -19,6 +19,7 @@ class Dog:
     # The init method is called to create an object
     # We give default values for the fields if none
     # are provided
+    
     def __init__(self, name="", height=0, weight=0):
  
         # self allows an object to refer to itself
